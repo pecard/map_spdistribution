@@ -1,4 +1,5 @@
 atlasmap
 ========
 
-Create distribution maps with data from local or remote (google spreadsheet) data.
+Retrieve data and create distribution maps.
+Examples with local or remote (GBIF, google spreadsheet) sources
